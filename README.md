@@ -17,7 +17,7 @@ El objetivo de este proyecto fue analizar los requisitos de la aplicación, dise
 
 ## Enlace a la lista de comprobación y resultados
 
-[Lista de comprobación y resultados de pruebas - UrbanLunch Sprint 5](https://docs.google.com/spreadsheets/d/1ul9aspTks4TciaMURUuJb0J_7AZqYehh/edit?usp=sharing&ouid=113710068924394112718&rtpof=true&sd=true)
+[Lista de comprobación y resultados de pruebas - UrbanLunch Mobile App](https://docs.google.com/spreadsheets/d/1ul9aspTks4TciaMURUuJb0J_7AZqYehh/edit?usp=sharing&ouid=113710068924394112718&rtpof=true&sd=true)
 
 ---
 
@@ -29,9 +29,4 @@ La aplicación tiene potencial para facilitar pedidos y recogidas de comidas en 
 
 Considero que continuar con iteraciones de pruebas y correcciones permitirá alcanzar un producto final sólido y útil para los usuarios.
 
----
-
-## Nota
-
-Este proyecto forma parte de mi desarrollo profesional en el área de aseguramiento de calidad y pruebas de software, con un enfoque en aplicaciones móviles.
 
